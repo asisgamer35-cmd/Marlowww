@@ -3,19 +3,19 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "nativesmps1.aternos.me",
     "port": 55519,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 545,
+    "y": 70,
+    "z": -483
   },
   "utils": {
     "auto-auth": {
